@@ -1,3 +1,1 @@
-hello jeveen loves the prethi!
-pipeline {
-    agent any{
+hello devops team!
